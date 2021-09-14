@@ -10,9 +10,9 @@ int main()
 {
     Student Output;
     Output.id = 12;
-    Output.name = "HK";
+    Output.name = "Annonymous";
 
-    cout << "This is " + Output.name   << " and This is id " <<  Output.id ;
-
+    cout << "This is " + Output.name   << " and This is id " <<  Output.id  << endl ;
+    cout << "This is Just update case" ;
     return 0;
 }
